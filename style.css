@@ -188,7 +188,7 @@ i{
         height: 100%;
         line-height: 2.1;
         box-sizing: border-box;
-        white-space: wrap;
+        white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
         margin-top: 0px;
